@@ -1,5 +1,5 @@
-# FlamingClock
-Simpla components for Rainmeter
+# Flaming Clock
+Simple components for Rainnmeter
 
 1. Clock with weather
 2. CPU usage
